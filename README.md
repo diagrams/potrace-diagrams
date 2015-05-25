@@ -8,7 +8,7 @@ for converting [JuicyPixel] images to bitmaps.
 Requires [bindings-potrace] and [potrace] librarys which are not yet on
 [Hackage].
 
-To install [bindins-potrace] you'll need to install the
+To install [bindings-potrace] you'll need to install the
 [potrace-library]. This should be in your systems package manager.
 
 ### mac installation
