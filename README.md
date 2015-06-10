@@ -1,5 +1,7 @@
 ## potrace-diagrams
 
+[![Hackage](https://img.shields.io/hackage/v/potrace-diagrams.svg)](https://hackage.haskell.org/package/potrace-diagrams)
+
 Convert bitmap images to [diagrams] using [potrace]. Containers helpers
 for converting [JuicyPixel] images to bitmaps.
 
