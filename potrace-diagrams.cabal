@@ -9,12 +9,18 @@ license:             GPL-2
 license-file:        LICENSE
 author:              Christopher Chalmers
 maintainer:          c.chalmers@me.com
-copyright:           Copyright (C) 2015 Christopher Chalmers
+homepage:            http://projects.haskell.org/diagrams/
+bug-reports:         http://github.com/cchalmers/potrace/issues
+copyright:           (c) 2015. Christopher Chalmers <c.chalmers@me.com>
 category:            Graphics
 build-type:          Simple
 extra-source-files:  README.md, diagrams/*.svg
 extra-doc-files:     diagrams/*.svg
 cabal-version:       >=1.10
+
+source-repository head
+  type:     git
+  location: git://github.com/diagrams/potrace-diagrams.git
 
 library
   exposed-modules:
